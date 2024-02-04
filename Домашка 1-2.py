@@ -7,3 +7,10 @@ def get_numbers_tiket(min, max, qantity):
         return list_number
     
     return list_number
+
+if __name__ == "__main__":
+    get_numbers_tiket()
+    min = int(input())
+    max = int(input())
+    qantity = int(input())
+    
