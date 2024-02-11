@@ -1,3 +1,4 @@
+import rabdom
 from random import randint
 
 def get_numbers_tiket(min, max, qantity):
